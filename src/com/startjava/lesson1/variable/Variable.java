@@ -1,3 +1,5 @@
+package com.startjava.lesson1.variable;
+
 class Variable {
     public static void main(String[] args) {
         byte cpuCore = 2;

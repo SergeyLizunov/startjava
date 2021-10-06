@@ -1,3 +1,5 @@
+package com.startjava.lesson1.number;
+
 import java.util.Scanner;
 
 public class Number {

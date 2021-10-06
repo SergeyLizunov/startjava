@@ -1,3 +1,5 @@
+package com.startjava.lesson1.symbol;
+
 public class Symbol {
     public static void main(String[] args) {
         System.out.println("Символы кодировки Unicode в диапазоне [9398, 10178]:");

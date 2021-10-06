@@ -1,3 +1,5 @@
+package com.startjava.lesson1.cycle;
+
 public class Cycle {
     public static void main(String[] args) {
         // for while
